@@ -1,4 +1,4 @@
-# 👩‍💻 Denise Soares
+# ⭐ Denise Soares
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas (UNIFOR)**  
 🎓 **MBA em Ciência de Dados (UNIFOR)**  
@@ -41,6 +41,8 @@
 - 🎮 Games
 - 🥋 Tai Chi Chuan
 - 🧘 Meditação
+- 🌏 Ecologia
+- ☀️ Cosmologia
 
 ---
 
