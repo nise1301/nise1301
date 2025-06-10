@@ -21,6 +21,8 @@
 - **Análise Exploratória de Dados**
 - **ETL**
 - **Lógica de Programação**
+- **Machine Learning**
+- **Business Intelligence**
 
 ---
 
