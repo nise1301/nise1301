@@ -61,10 +61,6 @@
 
 ---
 
-> _"Apaixonada por dados, tecnologia e pela busca de equilíbrio entre mente e corpo."_
-
----
-
 ## 🇺🇸 About Me (English)
 
 Hi, I'm Denise Soares!  
@@ -87,4 +83,3 @@ Reading, movies, games, tai chi chuan, and meditation.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/denise-soares-data)
 
-> _"Passionate about data, technology, and finding balance between mind and body."_# About Me
