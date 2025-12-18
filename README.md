@@ -2,8 +2,8 @@
 
 🎓 **Mestrado em Informática Aplicada (UNIFOR)**  
 🎓 **Bolsista no Núcleo de Ciência de Dados e Inteligência Artificial (NCDIA)**  
-🎓 **Data Analytics (Digital College)**
-🎓 **Inteligência Artificial Generativa (Digital College)**
+🎓 **Data Analytics (Digital College)**  
+🎓 **Inteligência Artificial Generativa (Digital College)**  
 
 ---
 
@@ -83,4 +83,3 @@ I'm a Master's student in Applied Informatics at UNIFOR and a scholar at the Cen
 Reading, movies, games, tai chi chuan, and meditation.  
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/denise-soares-data)
-
