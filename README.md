@@ -22,6 +22,7 @@
 - **Análise Exploratória de Dados**
 - **ETL**
 - **Lógica de Programação**
+- **Data Viz**
 - **Machine Learning**
 - **Business Intelligence**
 
@@ -30,16 +31,16 @@
 ## 🚀 **Projetos em Destaque**
 
 - 🎧 **Análise de Dataset de Streamings**  
-  Projeto final de módulo na Digital College, utilizando Python e ferramentas de análise de dados para insights do setor de streaming.
+  Projeto final do curso de Data Abalitics da Digital College, utilizando Python e ferramentas de análise de dados para insights do setor de streaming.
 
 - 🏀 **NBA_Posicao_Metricas**  
-  Análise de métricas e de posições com dados de jogadores da NBA.
+  Análise de métricas e de posições com dados de jogadores da NBA para a disciplina de Introdução a Ciência de Dados, do Mestrado em Informática Aplicada da UNIFOR.
 
 - 🌆 **Cidades**  
-  Exploração e visualização de indicadores econômicos e sociais em cidades brasileiras.
+  Exploração de dados de cafés da cidade de Fortaleza para a disciplina de Ciência de Dados Aplicada a Cidades, do Mestrado em Informática Aplicada da UNIFOR.
 
 - 📊 **PCA – Análise de Componentes Principais**  
-  Redução de dimensionalidade em datasets variados com enfoque em visualização de dados e performance de modelos.
+  Estudo sobre redução de dimensionalidade utilizando como case o famoso dataset iris, para a disciplina de Introdução a Ciência de Dados, do Mestrado em Informática Aplicada da UNIFOR.
 
 ---
 
