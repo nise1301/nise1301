@@ -3,6 +3,7 @@
 🎓 **Mestrado em Informática Aplicada (UNIFOR)**  
 🎓 **Bolsista no Núcleo de Ciência de Dados e Inteligência Artificial (NCDIA)**  
 🎓 **Data Analytics (Digital College)**  
+🎓 **Inteligência Artificial Generativa (Digital College)**  
 
 ---
 
