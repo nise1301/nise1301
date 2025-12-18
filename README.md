@@ -44,18 +44,6 @@
 
 ---
 
-## 📚 **Interesses**
-
-- 📖 Leitura
-- 🎬 Cinema
-- 🎮 Games
-- 🥋 Tai Chi Chuan
-- 🧘 Meditação
-- 🌏 Ecologia
-- ☀️ Cosmologia
-
----
-
 ## 🌐 **Conecte-se Comigo**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denise-soares-data)
