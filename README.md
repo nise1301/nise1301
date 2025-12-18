@@ -3,7 +3,6 @@
 🎓 **Mestrado em Informática Aplicada (UNIFOR)**  
 🎓 **Bolsista no Núcleo de Ciência de Dados e Inteligência Artificial (NCDIA)**  
 🎓 **Data Analytics (Digital College)**  
-🎓 **Inteligência Artificial Generativa (Digital College)**  
 
 ---
 
@@ -32,8 +31,14 @@
 - 🎧 **Análise de Dataset de Streamings**  
   Projeto final de módulo na Digital College, utilizando Python e ferramentas de análise de dados para insights do setor de streaming.
 
-- 🧠 **Indicadores de Depressão e Ansiedade em Universitários**  
-  Análise pessoal em andamento sobre saúde mental, explorando dados sobre depressão e ansiedade entre estudantes universitários.
+- 🏀 **NBA_Posicao_Metricas**  
+  Análise de métricas e de posições com dados de jogadores da NBA.
+
+- 🌆 **Cidades**  
+  Exploração e visualização de indicadores econômicos e sociais em cidades brasileiras.
+
+- 📊 **PCA – Análise de Componentes Principais**  
+  Redução de dimensionalidade em datasets variados com enfoque em visualização de dados e performance de modelos.
 
 ---
 
@@ -72,7 +77,9 @@ I'm a Master's student in Applied Informatics at UNIFOR and a scholar at the Cen
 
 **Featured projects:**  
 - Analysis of a streaming dataset (Digital College module)  
-- Ongoing personal project: Analysis of depression and anxiety indicators in university students  
+- NBA_Posicao_Metricas: Analysis of NBA player positions and metrics  
+- Cidades: Exploration of economic and social indicators in Brazilian cities  
+- PCA: Dimensionality reduction and primary components analysis  
 
 **Interests:**  
 Reading, movies, games, tai chi chuan, and meditation.  
