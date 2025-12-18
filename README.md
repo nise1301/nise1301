@@ -1,7 +1,7 @@
 # ⭐ Denise Soares
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas (UNIFOR)**  
-🎓 **MBA em Ciência de Dados (UNIFOR)**  
+🎓 **Mestrado em Informática Aplicada (UNIFOR)**  
+🎓 **Bolsista no Núcleo de Ciência de Dados e Inteligência Artificial (NCDIA)**  
 🎓 **Data Analytics (Digital College)**  
 
 ---
@@ -61,7 +61,7 @@
 ## 🇺🇸 About Me (English)
 
 Hi, I'm Denise Soares!  
-I'm a student of Systems Analysis and Development and currently pursuing an MBA in Data Science at UNIFOR.
+I'm a Master's student in Applied Informatics at UNIFOR and a scholar at the Center for Data Science and Artificial Intelligence (NCDIA).
 
 **Main skills & tools:**  
 - Python (Pandas, Matplotlib, NumPy, Seaborn) for data analysis and ETL  
